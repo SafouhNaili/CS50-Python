@@ -13,4 +13,4 @@
 * adding text before and after a function is returned
 * using the lambda to create a function that is one time use and without a name to shorten the code
 * teaches the code what to do when the input is wrong istead of giving the user an error
-* 
+  
